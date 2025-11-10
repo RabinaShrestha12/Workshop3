@@ -1,0 +1,14 @@
+D:\Application Development\Workshop3\Task3\bin\Debug\net9.0\Task3.exe
+D:\Application Development\Workshop3\Task3\bin\Debug\net9.0\Task3.deps.json
+D:\Application Development\Workshop3\Task3\bin\Debug\net9.0\Task3.runtimeconfig.json
+D:\Application Development\Workshop3\Task3\bin\Debug\net9.0\Task3.dll
+D:\Application Development\Workshop3\Task3\bin\Debug\net9.0\Task3.pdb
+D:\Application Development\Workshop3\Task3\obj\Debug\net9.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Application Development\Workshop3\Task3\obj\Debug\net9.0\Task3.AssemblyInfoInputs.cache
+D:\Application Development\Workshop3\Task3\obj\Debug\net9.0\Task3.AssemblyInfo.cs
+D:\Application Development\Workshop3\Task3\obj\Debug\net9.0\Task3.csproj.CoreCompileInputs.cache
+D:\Application Development\Workshop3\Task3\obj\Debug\net9.0\Task3.dll
+D:\Application Development\Workshop3\Task3\obj\Debug\net9.0\refint\Task3.dll
+D:\Application Development\Workshop3\Task3\obj\Debug\net9.0\Task3.pdb
+D:\Application Development\Workshop3\Task3\obj\Debug\net9.0\Task3.genruntimeconfig.cache
+D:\Application Development\Workshop3\Task3\obj\Debug\net9.0\ref\Task3.dll
